@@ -21,16 +21,17 @@ You will need at least the following non-included parts:
   - (8x) M2.5 nuts
   - (8x) M2.5 washers
   - (1x) M4 x 15mm screw
-  - (2x) M4 x ? scews for mounting (choose a screw long enough for your mounting surface)
   - (2x) M4 Washers
   - (4x - 8x) M2.5 x 6mm 
   - (4x - 8x) M2.5 Nylon Washers
+  - (1x) M2 x 4mm screw
   - (1x) - Sheet of black felt
+  - (2x) M4 x ? scews for mounting (choose a screw long enough for your mounting surface)
 
 You will need the following additional tools:
-- Screwdriver for M2.5 screws
+- Screwdriver for M2 and M2.5 screws
 - Screwdriver for M4 screws
-- M2.5 micro tap set for cleaning up threads of holes.
+- M2 and M2.5 micro tap set for cleaning up threads of holes.
 
 
 ## Printing Instructions
