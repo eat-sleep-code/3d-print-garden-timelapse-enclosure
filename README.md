@@ -1,5 +1,7 @@
 # 3D Printer: Garden Timelapse Enclosure
-An enclosure for Raspberry Pi HQ camera, up to two Raspberry Pi Zero's and a 40mm fan
+An enclosure for Raspberry Pi HQ camera, up to two Raspberry Pi Zero's and a 40mm fan. 
+
+If you are looking for a software solution to capture continuous timelapses and automatically upload them to YouTube, please see the [Camera.Timelapse](https://github.com/eat-sleep-code/camera.timelapse) repository.
 
 ## Overview
 
