@@ -50,10 +50,10 @@ These print settings were used to print using a Creality CR-6 SE using Hatchbox 
 - Printing Temperature: 200C
 - Build Plate Temperature: 60C
 - Part-specific notes:
-  - **Main Box.stl** For this piece you will need to print a "Touching Buildplate" support for overhanging angles exceeding 47°.  This is the only piece that needs to be printed with supports.
+  - **Main Box.stl:** For this piece you will need to print a "Touching Buildplate" support for overhanging angles exceeding 47°.  This is the only piece that needs to be printed with supports.
   
 ## Cutting Instructions
-The **Camera Lens Felt Seal.studio3** file can be used to cut a felt seal using a Silhouette Cameo cutting machine.   You may need to make multiple cut passes to cut through the felt.   This seal can also cut by hand with a steady hand.
+**Camera Lens Felt Seal.studio3:** This file can be used to cut a felt seal using a Silhouette Cameo cutting machine.   You may need to make multiple cut passes to cut through the felt.   This seal can also cut by hand with a steady hand.
 
 ![Inside](/images/Inside.jpg)
 
