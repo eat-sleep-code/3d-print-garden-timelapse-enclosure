@@ -58,4 +58,4 @@ These print settings were used to print using a Creality CR-6 SE using Hatchbox 
 
 ![Inside](/images/Inside.jpg)
 
-![Left](/images/Front.jpg)
+![Left Side](/images/Left Side.jpg)
