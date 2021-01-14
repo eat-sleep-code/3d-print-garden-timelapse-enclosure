@@ -20,6 +20,7 @@ You will need at least the following non-included parts:
 - [6mm CS-mount Lens](https://smile.amazon.com/gp/product/B088GWZPL1)
 - [Ribbon Flex Extension Cables for Pi Zero](https://smile.amazon.com/Arducam-Raspberry-Camera-Ribbon-Extension/dp/B085RW9K13)
 - [Noctua 40mm 5V Fan (3-pin)](https://smile.amazon.com/gp/product/B00NEMGCIA) (includes 3-pin to 2-pin adapter)
+- quality Micro USB power cable in an appropriate length  
 - *Screws, Nuts, Bolts*
   - (4x) M2.5 x 30mm (or M2.5 x 35mm) 
   - (8x) M2.5 nuts
