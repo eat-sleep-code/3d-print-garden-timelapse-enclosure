@@ -11,7 +11,7 @@ The case also supports mounting a **5v** 40mm fan.   Noctua fans are suggested d
 
 You will need at least the following non-included parts:
 - [Raspberry Pi Zero WH](https://www.adafruit.com/product/3708)
-- [Arducam Noir Camera](https://smile.amazon.com/Arducam-Camera-Raspberry-Interchangeable-LS-2717CS/dp/B013JV4Z7K/) or [Raspberry Pi HQ camera)(https://www.canakit.com/raspberry-pi-hq-camera.html) and a comparable lens.
+- [Arducam Noir Camera](https://smile.amazon.com/Arducam-Camera-Raspberry-Interchangeable-LS-2717CS/dp/B013JV4Z7K/) or [Raspberry Pi HQ camera](https://www.canakit.com/raspberry-pi-hq-camera.html) and a comparable lens.
 - [SD Card](https://smile.amazon.com/gp/product/B07FCMKK5X)
 - [6mm CS-mount Lens](https://smile.amazon.com/gp/product/B088GWZPL1)
 - [Ribbon Flex Extension Cables for Pi Zero](https://smile.amazon.com/Arducam-Raspberry-Camera-Ribbon-Extension/dp/B085RW9K13)
