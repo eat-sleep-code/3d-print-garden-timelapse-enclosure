@@ -5,6 +5,8 @@ An enclosure for Raspberry Pi HQ camera, up to two Raspberry Pi Zero's and a 40m
 
 This collection of files will allow you to print a 3D print an enclosure for a Timelapse Camera.  This enclosure case will hold a Raspberry Pi HQ Camera (or similar dimensioned camera from Arducam), one to two Raspberry Pi Zero WH boards, and optionally a Trinket M0 board.  
 
+![Front](/images/Front.jpg)
+
 The case also supports mounting a **5v** 40mm fan.   Noctua fans are suggested due to their quiet operation and lengthy warranty.   They also included the 3-pin to 2-pin adapter which will allow you connect it directly to pins 4 and 6 of your Raspberry Pi's GPIO.
 
 ## Getting Started
@@ -51,3 +53,6 @@ These print settings were used to print using a Creality CR-6 SE using Hatchbox 
 ## Cutting Instructions
 The **Camera Lens Felt Seal.studio3** file can be used to cut a felt seal using a Silhouette Cameo cutting machine.   You may need to make multiple cut passes to cut through the felt.   This seal can also cut by hand with a steady hand.
 
+![Inside](/images/Inside.jpg)
+
+![Left](/images/Front.jpg)
